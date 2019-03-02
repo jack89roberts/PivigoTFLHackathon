@@ -1,0 +1,735 @@
+id,name,nlc
+1,Abbey Wood,5131
+2,Acton Main Line,3000
+3,Acton Town,500
+4,Aldgate,502
+5,Aldgate East,503
+6,Alperton,505
+7,Amersham,506
+8,Angel,507
+9,Archway,508
+10,Arnos Grove,509
+11,Arsenal,510
+12,Baker Street,511
+13,Balham,512
+14,Bank,513
+15,Barbican,501
+16,Barking,514
+17,Barkingside,515
+18,Barons Court,516
+19,Bayswater,517
+20,Becontree,518
+21,Belsize Park,519
+22,Bermondsey,787
+23,Bethnal Green,520
+24,Blackfriars,521
+25,Blackhorse Road,522
+26,Bond Street,524
+27,Borough,525
+28,Boston Manor,526
+29,Bounds Green,527
+30,Bow Road,528
+31,Brent Cross,529
+32,Brentwood,6872
+33,Brixton,778
+34,Bromley By Bow,530
+35,Buckhurst Hill,531
+36,Burnham,3176
+37,Burnt Oak,532
+38,Caledonian Road,534
+39,Camden Town,535
+40,Canada Water,788
+41,Canary Wharf,666
+42,Canning Town,884
+43,Cannon Street,536
+44,Canons Park,537
+45,Chadwell Heath,6874
+46,Chalfont & Latimer,539
+47,Chalk Farm,540
+48,Chancery Lane,541
+49,Charing Cross,732
+50,Chesham,543
+51,Chigwell,544
+52,Chiswick Park,545
+53,Chorleywood,546
+54,Clapham Common,547
+55,Clapham North,548
+56,Clapham South,549
+57,Cockfosters,550
+58,Colindale,551
+59,Colliers Wood,552
+60,Covent Garden,553
+61,Croxley,554
+62,Custom House,6964
+63,Dagenham East,555
+64,Dagenham Heathway,556
+65,Debden,557
+66,Dollis Hill,558
+67,Ealing Broadway,560
+68,Ealing Common,561
+69,Earls Court,562
+70,East Acton,563
+71,East Finchley,565
+72,East Ham,566
+73,East Putney,567
+74,Eastcote,564
+75,Edgware,568
+76,Edgware Road,774
+77,Elephant & Castle,570
+78,Elm Park,571
+79,Embankment,542
+80,Epping,572
+81,Euston,574
+82,Euston Square,575
+83,Fairlop,576
+84,Farringdon,577
+85,Finchley Central,578
+86,Finchley Road,579
+87,Finsbury Park,6119
+88,Forest Gate,6876
+89,Fulham Broadway,581
+90,Gants Hill,582
+91,Gidea Park,6877
+92,Gloucester Road,583
+93,Golders Green,584
+94,Goldhawk Road,585
+95,Goodge Street,586
+96,Goodmayes,6878
+97,Grange Hill,587
+98,Great Portland Street,588
+99,Green Park,590
+100,Greenford,589
+101,Gunnersbury,591
+102,Hainault,592
+103,Hammersmith,773
+104,Hammersmith,593
+105,Hampstead,594
+106,Hanger Lane,595
+107,Hanwell,3191
+108,Harlesden,596
+109,Harold Wood,6879
+110,Harrow & Wealdstone,597
+111,Harrow-On-The-Hill,598
+112,Hatton Cross,779
+113,Hayes & Harlington,3186
+114,Heathrow 123,780
+115,Heathrow 4,781
+116,Heathrow 5,783
+117,Hendon Central,601
+118,High Barnet,602
+119,High Street Kensington,605
+120,Highbury,603
+121,Highgate,604
+122,Hillingdon,606
+123,Holborn,607
+124,Holland Park,608
+125,Holloway Road,609
+126,Hornchurch,610
+127,Hounslow Central,611
+128,Hounslow East,612
+129,Hounslow West,613
+130,Hyde Park Corner,614
+131,Ickenham,615
+132,Ilford,6881
+133,Iver,3170
+134,Kennington,616
+135,Kensal Green,617
+136,Kensington Olympia,3092
+137,Kentish Town,619
+138,Kenton,620
+139,Kew Gardens,621
+140,Kilburn,622
+141,Kilburn Park,623
+142,Kings Cross,625
+143,Kingsbury,624
+144,Knightsbridge,626
+145,Ladbroke Grove,627
+146,Lambeth North,628
+147,Lancaster Gate,629
+148,Langley,3171
+149,Latimer Road,630
+150,Leicester Square,631
+151,Leyton,632
+152,Leytonstone,633
+153,Liverpool Street,634
+154,London Bridge,635
+155,Loughton,636
+156,Maida Vale,637
+157,Maidenhead,3147
+158,Manor House,638
+159,Manor Park,6883
+160,Mansion House,639
+161,Marble Arch,640
+162,Maryland,9957
+163,Marylebone,641
+164,Mile End,642
+165,Mill Hill East,1527
+166,Monument,644
+167,Moor Park,646
+168,Moorgate,645
+169,Morden,647
+170,Mornington Crescent,648
+171,Neasden,649
+172,New Cross,5150
+173,New Cross Gate,5345
+174,Newbury Park,650
+175,North Acton,653
+176,North Ealing,654
+177,North Greenwich,789
+178,North Harrow,656
+179,North Wembley,659
+180,Northfields,655
+181,Northolt,657
+182,Northwick Park,660
+183,Northwood,661
+184,Northwood Hills,662
+185,Notting Hill Gate,663
+186,Oakwood,664
+187,Old Street,665
+188,Osterley,667
+189,Oval,668
+190,Oxford Circus,669
+191,Paddington,670
+192,Park Royal,671
+193,Parsons Green,672
+194,Perivale,673
+195,Piccadilly Circus,674
+196,Pimlico,776
+197,Pinner,675
+198,Plaistow,676
+199,Preston Road,677
+200,Putney Bridge,678
+201,Queens Park,680
+202,Queensbury,679
+203,Queensway,681
+204,Ravenscourt Park,682
+205,Rayners Lane,683
+206,Reading,3149
+207,Redbridge,684
+208,Regents Park,685
+209,Richmond,5570
+210,Rickmansworth,687
+211,Roding Valley,688
+212,Romford,6886
+213,Rotherhithe,1039
+214,Royal Oak,690
+215,Ruislip,691
+216,Ruislip Gardens,692
+217,Ruislip Manor,693
+218,Russell Square,694
+219,Seven Kings,6893
+220,Seven Sisters,698
+221,Shadwell,1082
+222,Shenfield,6888
+223,Shepherds Bush,700
+224,Shepherds Bush Market,775
+225,Shoreditch,1024
+226,Sloane Square,702
+227,Slough,3172
+228,Snaresbrook,703
+229,South Ealing,704
+230,South Harrow,707
+231,South Kensington,708
+232,South Kenton,1453
+233,South Ruislip,710
+234,South Wimbledon,711
+235,South Woodford,712
+236,Southall,3187
+237,Southfields,705
+238,Southgate,706
+239,Southwark,784
+240,St James Park,695
+241,St Johns Wood,696
+242,St Pauls,697
+243,Stamford Brook,713
+244,Stanmore,714
+245,Stepney Green,715
+246,Stockwell,716
+247,Stonebridge Park,717
+248,Stratford,719
+249,Sudbury Hill,720
+250,Sudbury Town,721
+251,Surrey Quays,1083
+252,Swiss Cottage,723
+253,Taplow,3151
+254,Temple,724
+255,Theydon Bois,725
+256,Tooting Bec,726
+257,Tooting Broadway,727
+258,Tottenham Court Road,728
+259,Tottenham Hale,729
+260,Totteridge & Whetstone,730
+261,Tower Hill,731
+262,Tufnell Park,733
+263,Turnham Green,734
+264,Turnpike Lane,735
+265,Twyford,3155
+266,Upminster,736
+267,Upminster Bridge,737
+268,Upney,738
+269,Upton Park,739
+270,Uxbridge,740
+271,Vauxhall,777
+272,Victoria,741
+273,Walthamstow,742
+274,Wanstead,743
+275,Wapping,744
+276,Warren Street,745
+277,Warwick Avenue,746
+278,Waterloo,747
+279,Waterloo,796
+280,Watford,748
+281,Wembley Central,751
+282,Wembley Park,752
+283,West Acton,753
+284,West Brompton,755
+285,West Drayton,3174
+286,West Ealing,3188
+287,West Finchley,756
+288,West Ham,757
+289,West Hampstead,758
+290,West Harrow,759
+291,West Kensington,760
+292,West Ruislip,762
+293,Westbourne Park,754
+294,Westminster,761
+295,White City,764
+296,Whitechapel,763
+297,Willesden Green,765
+298,Willesden Junction,1457
+299,Wimbledon,5578
+300,Wimbledon Park,768
+301,Wood Green,770
+302,Wood Lane,599
+303,Woodford,769
+304,Woodside Park,771
+305,Woolwich,6562
+306,Abbey Wood Elizabeth Platform,5131_Elizabeth
+307,Acton Main Line Elizabeth Platform,3000_Elizabeth
+308,Acton Town District Platform,500_District
+309,Acton Town Piccadilly Platform,500_Piccadilly
+310,Aldgate Circle Platform,502_Circle
+311,Aldgate Metropolitan Platform,502_Metropolitan
+312,Aldgate East District Platform,503_District
+313,Aldgate East H & C Platform,503_H & C
+314,Alperton Piccadilly Platform,505_Piccadilly
+315,Amersham Metropolitan Platform,506_Metropolitan
+316,Angel Northern Platform,507_Northern
+317,Archway Northern Platform,508_Northern
+318,Arnos Grove Piccadilly Platform,509_Piccadilly
+319,Arsenal Piccadilly Platform,510_Piccadilly
+320,Baker Street Bakerloo Platform,511_Bakerloo
+321,Baker Street Circle Platform,511_Circle
+322,Baker Street H & C Platform,511_H & C
+323,Baker Street Jubilee Platform,511_Jubilee
+324,Baker Street Metropolitan Platform,511_Metropolitan
+325,Balham Northern Platform,512_Northern
+326,Bank Central Platform,513_Central
+327,Bank Northern Platform,513_Northern
+328,Bank Waterloo & City Platform,513_Waterloo & City
+329,Barbican Circle Platform,501_Circle
+330,Barbican H & C Platform,501_H & C
+331,Barbican Metropolitan Platform,501_Metropolitan
+332,Barking District Platform,514_District
+333,Barking H & C Platform,514_H & C
+334,Barkingside Central Platform,515_Central
+335,Barons Court District Platform,516_District
+336,Barons Court Piccadilly Platform,516_Piccadilly
+337,Bayswater Circle Platform,517_Circle
+338,Bayswater District Platform,517_District
+339,Becontree District Platform,518_District
+340,Belsize Park Northern Platform,519_Northern
+341,Bermondsey Jubilee Platform,787_Jubilee
+342,Bethnal Green Central Platform,520_Central
+343,Blackfriars Circle Platform,521_Circle
+344,Blackfriars District Platform,521_District
+345,Blackhorse Road Victoria Platform,522_Victoria
+346,Bond Street Central Platform,524_Central
+347,Bond Street Elizabeth Platform,524_Elizabeth
+348,Bond Street Jubilee Platform,524_Jubilee
+349,Borough Northern Platform,525_Northern
+350,Boston Manor Piccadilly Platform,526_Piccadilly
+351,Bounds Green Piccadilly Platform,527_Piccadilly
+352,Bow Road District Platform,528_District
+353,Bow Road H & C Platform,528_H & C
+354,Brent Cross Northern Platform,529_Northern
+355,Brentwood Elizabeth Platform,6872_Elizabeth
+356,Brixton Victoria Platform,778_Victoria
+357,Bromley By Bow District Platform,530_District
+358,Bromley By Bow H & C Platform,530_H & C
+359,Buckhurst Hill Central Platform,531_Central
+360,Burnham Elizabeth Platform,3176_Elizabeth
+361,Burnt Oak Northern Platform,532_Northern
+362,Caledonian Road Piccadilly Platform,534_Piccadilly
+363,Camden Town Northern Platform,535_Northern
+364,Canada Water East London Platform,788_East London
+365,Canada Water Jubilee Platform,788_Jubilee
+366,Canary Wharf Elizabeth Platform,666_Elizabeth
+367,Canary Wharf Jubilee Platform,666_Jubilee
+368,Canning Town Jubilee Platform,884_Jubilee
+369,Cannon Street Circle Platform,536_Circle
+370,Cannon Street District Platform,536_District
+371,Canons Park Jubilee Platform,537_Jubilee
+372,Chadwell Heath Elizabeth Platform,6874_Elizabeth
+373,Chalfont & Latimer Metropolitan Platform,539_Metropolitan
+374,Chalk Farm Northern Platform,540_Northern
+375,Chancery Lane Central Platform,541_Central
+376,Charing Cross Bakerloo Platform,732_Bakerloo
+377,Charing Cross Northern Platform,732_Northern
+378,Chesham Metropolitan Platform,543_Metropolitan
+379,Chigwell Central Platform,544_Central
+380,Chiswick Park District Platform,545_District
+381,Chorleywood Metropolitan Platform,546_Metropolitan
+382,Clapham Common Northern Platform,547_Northern
+383,Clapham North Northern Platform,548_Northern
+384,Clapham South Northern Platform,549_Northern
+385,Cockfosters Piccadilly Platform,550_Piccadilly
+386,Colindale Northern Platform,551_Northern
+387,Colliers Wood Northern Platform,552_Northern
+388,Covent Garden Piccadilly Platform,553_Piccadilly
+389,Croxley Metropolitan Platform,554_Metropolitan
+390,Custom House Elizabeth Platform,6964_Elizabeth
+391,Dagenham East District Platform,555_District
+392,Dagenham Heathway District Platform,556_District
+393,Debden Central Platform,557_Central
+394,Dollis Hill Jubilee Platform,558_Jubilee
+395,Ealing Broadway Central Platform,560_Central
+396,Ealing Broadway District Platform,560_District
+397,Ealing Broadway Elizabeth Platform,560_Elizabeth
+398,Ealing Common District Platform,561_District
+399,Ealing Common Piccadilly Platform,561_Piccadilly
+400,Earls Court District Platform,562_District
+401,Earls Court Piccadilly Platform,562_Piccadilly
+402,East Acton Central Platform,563_Central
+403,East Finchley Northern Platform,565_Northern
+404,East Ham District Platform,566_District
+405,East Ham H & C Platform,566_H & C
+406,East Putney District Platform,567_District
+407,Eastcote Metropolitan Platform,564_Metropolitan
+408,Eastcote Piccadilly Platform,564_Piccadilly
+409,Edgware Northern Platform,568_Northern
+410,Edgware Road Bakerloo Platform,774_Bakerloo
+411,Edgware Road Circle Platform,774_Circle
+412,Edgware Road District Platform,774_District
+413,Edgware Road H & C Platform,774_H & C
+414,Elephant & Castle Bakerloo Platform,570_Bakerloo
+415,Elephant & Castle Northern Platform,570_Northern
+416,Elm Park District Platform,571_District
+417,Embankment Bakerloo Platform,542_Bakerloo
+418,Embankment Circle Platform,542_Circle
+419,Embankment District Platform,542_District
+420,Embankment Northern Platform,542_Northern
+421,Epping Central Platform,572_Central
+422,Euston Northern Platform,574_Northern
+423,Euston Victoria Platform,574_Victoria
+424,Euston Square Circle Platform,575_Circle
+425,Euston Square H & C Platform,575_H & C
+426,Euston Square Metropolitan Platform,575_Metropolitan
+427,Fairlop Central Platform,576_Central
+428,Farringdon Circle Platform,577_Circle
+429,Farringdon Elizabeth Platform,577_Elizabeth
+430,Farringdon H & C Platform,577_H & C
+431,Farringdon Metropolitan Platform,577_Metropolitan
+432,Finchley Central Northern Platform,578_Northern
+433,Finchley Road Jubilee Platform,579_Jubilee
+434,Finchley Road Metropolitan Platform,579_Metropolitan
+435,Finsbury Park Piccadilly Platform,6119_Piccadilly
+436,Finsbury Park Victoria Platform,6119_Victoria
+437,Forest Gate Elizabeth Platform,6876_Elizabeth
+438,Fulham Broadway District Platform,581_District
+439,Gants Hill Central Platform,582_Central
+440,Gidea Park Elizabeth Platform,6877_Elizabeth
+441,Gloucester Road Circle Platform,583_Circle
+442,Gloucester Road District Platform,583_District
+443,Gloucester Road Piccadilly Platform,583_Piccadilly
+444,Golders Green Northern Platform,584_Northern
+445,Goldhawk Road Circle Platform,585_Circle
+446,Goldhawk Road H & C Platform,585_H & C
+447,Goodge Street Northern Platform,586_Northern
+448,Goodmayes Elizabeth Platform,6878_Elizabeth
+449,Grange Hill Central Platform,587_Central
+450,Great Portland Street Circle Platform,588_Circle
+451,Great Portland Street H & C Platform,588_H & C
+452,Great Portland Street Metropolitan Platform,588_Metropolitan
+453,Green Park Jubilee Platform,590_Jubilee
+454,Green Park Piccadilly Platform,590_Piccadilly
+455,Green Park Victoria Platform,590_Victoria
+456,Greenford Central Platform,589_Central
+457,Gunnersbury District Platform,591_District
+458,Hainault Central Platform,592_Central
+459,Hammersmith Circle Platform,773_Circle
+460,Hammersmith H & C Platform,773_H & C
+461,Hammersmith District Platform,593_District
+462,Hammersmith Piccadilly Platform,593_Piccadilly
+463,Hampstead Northern Platform,594_Northern
+464,Hanger Lane Central Platform,595_Central
+465,Hanwell Elizabeth Platform,3191_Elizabeth
+466,Harlesden Bakerloo Platform,596_Bakerloo
+467,Harold Wood Elizabeth Platform,6879_Elizabeth
+468,Harrow & Wealdstone Bakerloo Platform,597_Bakerloo
+469,Harrow-On-The-Hill Metropolitan Platform,598_Metropolitan
+470,Hatton Cross Piccadilly Platform,779_Piccadilly
+471,Hayes & Harlington Elizabeth Platform,3186_Elizabeth
+472,Heathrow 123 Elizabeth Platform,780_Elizabeth
+473,Heathrow 123 Piccadilly Platform,780_Piccadilly
+474,Heathrow 4 Elizabeth Platform,781_Elizabeth
+475,Heathrow 4 Piccadilly Platform,781_Piccadilly
+476,Heathrow 5 Elizabeth Platform,783_Elizabeth
+477,Heathrow 5 Piccadilly Platform,783_Piccadilly
+478,Hendon Central Northern Platform,601_Northern
+479,High Barnet Northern Platform,602_Northern
+480,High Street Kensington Circle Platform,605_Circle
+481,High Street Kensington District Platform,605_District
+482,Highbury Victoria Platform,603_Victoria
+483,Highgate Northern Platform,604_Northern
+484,Hillingdon Metropolitan Platform,606_Metropolitan
+485,Hillingdon Piccadilly Platform,606_Piccadilly
+486,Holborn Central Platform,607_Central
+487,Holborn Piccadilly Platform,607_Piccadilly
+488,Holland Park Central Platform,608_Central
+489,Holloway Road Piccadilly Platform,609_Piccadilly
+490,Hornchurch District Platform,610_District
+491,Hounslow Central Piccadilly Platform,611_Piccadilly
+492,Hounslow East Piccadilly Platform,612_Piccadilly
+493,Hounslow West Piccadilly Platform,613_Piccadilly
+494,Hyde Park Corner Piccadilly Platform,614_Piccadilly
+495,Ickenham Metropolitan Platform,615_Metropolitan
+496,Ickenham Piccadilly Platform,615_Piccadilly
+497,Ilford Elizabeth Platform,6881_Elizabeth
+498,Iver Elizabeth Platform,3170_Elizabeth
+499,Kennington Northern Platform,616_Northern
+500,Kensal Green Bakerloo Platform,617_Bakerloo
+501,Kensington Olympia District Platform,3092_District
+502,Kentish Town Northern Platform,619_Northern
+503,Kenton Bakerloo Platform,620_Bakerloo
+504,Kew Gardens District Platform,621_District
+505,Kilburn Jubilee Platform,622_Jubilee
+506,Kilburn Park Bakerloo Platform,623_Bakerloo
+507,Kings Cross Circle Platform,625_Circle
+508,Kings Cross H & C Platform,625_H & C
+509,Kings Cross Metropolitan Platform,625_Metropolitan
+510,Kings Cross Northern Platform,625_Northern
+511,Kings Cross Piccadilly Platform,625_Piccadilly
+512,Kings Cross Victoria Platform,625_Victoria
+513,Kingsbury Jubilee Platform,624_Jubilee
+514,Knightsbridge Piccadilly Platform,626_Piccadilly
+515,Ladbroke Grove Circle Platform,627_Circle
+516,Ladbroke Grove H & C Platform,627_H & C
+517,Lambeth North Bakerloo Platform,628_Bakerloo
+518,Lancaster Gate Central Platform,629_Central
+519,Langley Elizabeth Platform,3171_Elizabeth
+520,Latimer Road Circle Platform,630_Circle
+521,Latimer Road H & C Platform,630_H & C
+522,Leicester Square Northern Platform,631_Northern
+523,Leicester Square Piccadilly Platform,631_Piccadilly
+524,Leyton Central Platform,632_Central
+525,Leytonstone Central Platform,633_Central
+526,Liverpool Street Central Platform,634_Central
+527,Liverpool Street Circle Platform,634_Circle
+528,Liverpool Street Elizabeth Platform,634_Elizabeth
+529,Liverpool Street H & C Platform,634_H & C
+530,Liverpool Street Metropolitan Platform,634_Metropolitan
+531,London Bridge Jubilee Platform,635_Jubilee
+532,London Bridge Northern Platform,635_Northern
+533,Loughton Central Platform,636_Central
+534,Maida Vale Bakerloo Platform,637_Bakerloo
+535,Maidenhead Elizabeth Platform,3147_Elizabeth
+536,Manor House Piccadilly Platform,638_Piccadilly
+537,Manor Park Elizabeth Platform,6883_Elizabeth
+538,Mansion House Circle Platform,639_Circle
+539,Mansion House District Platform,639_District
+540,Marble Arch Central Platform,640_Central
+541,Maryland Elizabeth Platform,9957_Elizabeth
+542,Marylebone Bakerloo Platform,641_Bakerloo
+543,Mile End Central Platform,642_Central
+544,Mile End District Platform,642_District
+545,Mile End H & C Platform,642_H & C
+546,Mill Hill East Northern Platform,1527_Northern
+547,Monument Circle Platform,644_Circle
+548,Monument District Platform,644_District
+549,Moor Park Metropolitan Platform,646_Metropolitan
+550,Moorgate Circle Platform,645_Circle
+551,Moorgate H & C Platform,645_H & C
+552,Moorgate Metropolitan Platform,645_Metropolitan
+553,Moorgate Northern Platform,645_Northern
+554,Morden Northern Platform,647_Northern
+555,Mornington Crescent Northern Platform,648_Northern
+556,Neasden Jubilee Platform,649_Jubilee
+557,New Cross East London Platform,5150_East London
+558,New Cross Gate East London Platform,5345_East London
+559,Newbury Park Central Platform,650_Central
+560,North Acton Central Platform,653_Central
+561,North Ealing Piccadilly Platform,654_Piccadilly
+562,North Greenwich Jubilee Platform,789_Jubilee
+563,North Harrow Metropolitan Platform,656_Metropolitan
+564,North Wembley Bakerloo Platform,659_Bakerloo
+565,Northfields Piccadilly Platform,655_Piccadilly
+566,Northolt Central Platform,657_Central
+567,Northwick Park Metropolitan Platform,660_Metropolitan
+568,Northwood Metropolitan Platform,661_Metropolitan
+569,Northwood Hills Metropolitan Platform,662_Metropolitan
+570,Notting Hill Gate Central Platform,663_Central
+571,Notting Hill Gate Circle Platform,663_Circle
+572,Notting Hill Gate District Platform,663_District
+573,Oakwood Piccadilly Platform,664_Piccadilly
+574,Old Street Northern Platform,665_Northern
+575,Osterley Piccadilly Platform,667_Piccadilly
+576,Oval Northern Platform,668_Northern
+577,Oxford Circus Bakerloo Platform,669_Bakerloo
+578,Oxford Circus Central Platform,669_Central
+579,Oxford Circus Victoria Platform,669_Victoria
+580,Paddington Bakerloo Platform,670_Bakerloo
+581,Paddington Circle Platform,670_Circle
+582,Paddington District Platform,670_District
+583,Paddington Elizabeth Platform,670_Elizabeth
+584,Paddington H & C Platform,670_H & C
+585,Park Royal Piccadilly Platform,671_Piccadilly
+586,Parsons Green District Platform,672_District
+587,Perivale Central Platform,673_Central
+588,Piccadilly Circus Bakerloo Platform,674_Bakerloo
+589,Piccadilly Circus Piccadilly Platform,674_Piccadilly
+590,Pimlico Victoria Platform,776_Victoria
+591,Pinner Metropolitan Platform,675_Metropolitan
+592,Plaistow District Platform,676_District
+593,Plaistow H & C Platform,676_H & C
+594,Preston Road Metropolitan Platform,677_Metropolitan
+595,Putney Bridge District Platform,678_District
+596,Queens Park Bakerloo Platform,680_Bakerloo
+597,Queensbury Jubilee Platform,679_Jubilee
+598,Queensway Central Platform,681_Central
+599,Ravenscourt Park District Platform,682_District
+600,Rayners Lane Metropolitan Platform,683_Metropolitan
+601,Rayners Lane Piccadilly Platform,683_Piccadilly
+602,Reading Elizabeth Platform,3149_Elizabeth
+603,Redbridge Central Platform,684_Central
+604,Regents Park Bakerloo Platform,685_Bakerloo
+605,Richmond District Platform,5570_District
+606,Rickmansworth Metropolitan Platform,687_Metropolitan
+607,Roding Valley Central Platform,688_Central
+608,Romford Elizabeth Platform,6886_Elizabeth
+609,Rotherhithe East London Platform,1039_East London
+610,Royal Oak Circle Platform,690_Circle
+611,Royal Oak H & C Platform,690_H & C
+612,Ruislip Metropolitan Platform,691_Metropolitan
+613,Ruislip Piccadilly Platform,691_Piccadilly
+614,Ruislip Gardens Central Platform,692_Central
+615,Ruislip Manor Metropolitan Platform,693_Metropolitan
+616,Ruislip Manor Piccadilly Platform,693_Piccadilly
+617,Russell Square Piccadilly Platform,694_Piccadilly
+618,Seven Kings Elizabeth Platform,6893_Elizabeth
+619,Seven Sisters Victoria Platform,698_Victoria
+620,Shadwell East London Platform,1082_East London
+621,Shenfield Elizabeth Platform,6888_Elizabeth
+622,Shepherds Bush Central Platform,700_Central
+623,Shepherds Bush Market Circle Platform,775_Circle
+624,Shepherds Bush Market H & C Platform,775_H & C
+625,Shoreditch East London Platform,1024_East London
+626,Sloane Square Circle Platform,702_Circle
+627,Sloane Square District Platform,702_District
+628,Slough Elizabeth Platform,3172_Elizabeth
+629,Snaresbrook Central Platform,703_Central
+630,South Ealing Piccadilly Platform,704_Piccadilly
+631,South Harrow Piccadilly Platform,707_Piccadilly
+632,South Kensington Circle Platform,708_Circle
+633,South Kensington District Platform,708_District
+634,South Kensington Piccadilly Platform,708_Piccadilly
+635,South Kenton Bakerloo Platform,1453_Bakerloo
+636,South Ruislip Central Platform,710_Central
+637,South Wimbledon Northern Platform,711_Northern
+638,South Woodford Central Platform,712_Central
+639,Southall Elizabeth Platform,3187_Elizabeth
+640,Southfields District Platform,705_District
+641,Southgate Piccadilly Platform,706_Piccadilly
+642,Southwark Jubilee Platform,784_Jubilee
+643,St James Park Circle Platform,695_Circle
+644,St James Park District Platform,695_District
+645,St Johns Wood Jubilee Platform,696_Jubilee
+646,St Pauls Central Platform,697_Central
+647,Stamford Brook District Platform,713_District
+648,Stanmore Jubilee Platform,714_Jubilee
+649,Stepney Green District Platform,715_District
+650,Stepney Green H & C Platform,715_H & C
+651,Stockwell Northern Platform,716_Northern
+652,Stockwell Victoria Platform,716_Victoria
+653,Stonebridge Park Bakerloo Platform,717_Bakerloo
+654,Stratford Central Platform,719_Central
+655,Stratford Elizabeth Platform,719_Elizabeth
+656,Stratford Jubilee Platform,719_Jubilee
+657,Sudbury Hill Piccadilly Platform,720_Piccadilly
+658,Sudbury Town Piccadilly Platform,721_Piccadilly
+659,Surrey Quays East London Platform,1083_East London
+660,Swiss Cottage Jubilee Platform,723_Jubilee
+661,Taplow Elizabeth Platform,3151_Elizabeth
+662,Temple Circle Platform,724_Circle
+663,Temple District Platform,724_District
+664,Theydon Bois Central Platform,725_Central
+665,Tooting Bec Northern Platform,726_Northern
+666,Tooting Broadway Northern Platform,727_Northern
+667,Tottenham Court Road Central Platform,728_Central
+668,Tottenham Court Road Elizabeth Platform,728_Elizabeth
+669,Tottenham Court Road Northern Platform,728_Northern
+670,Tottenham Hale Victoria Platform,729_Victoria
+671,Totteridge & Whetstone Northern Platform,730_Northern
+672,Tower Hill Circle Platform,731_Circle
+673,Tower Hill District Platform,731_District
+674,Tufnell Park Northern Platform,733_Northern
+675,Turnham Green District Platform,734_District
+676,Turnpike Lane Piccadilly Platform,735_Piccadilly
+677,Twyford Elizabeth Platform,3155_Elizabeth
+678,Upminster District Platform,736_District
+679,Upminster Bridge District Platform,737_District
+680,Upney District Platform,738_District
+681,Upton Park District Platform,739_District
+682,Upton Park H & C Platform,739_H & C
+683,Uxbridge Metropolitan Platform,740_Metropolitan
+684,Uxbridge Piccadilly Platform,740_Piccadilly
+685,Vauxhall Victoria Platform,777_Victoria
+686,Victoria Circle Platform,741_Circle
+687,Victoria District Platform,741_District
+688,Victoria Victoria Platform,741_Victoria
+689,Walthamstow Victoria Platform,742_Victoria
+690,Wanstead Central Platform,743_Central
+691,Wapping East London Platform,744_East London
+692,Warren Street Northern Platform,745_Northern
+693,Warren Street Victoria Platform,745_Victoria
+694,Warwick Avenue Bakerloo Platform,746_Bakerloo
+695,Waterloo Bakerloo Platform,747_Bakerloo
+696,Waterloo Northern Platform,747_Northern
+697,Waterloo Waterloo & City Platform,747_Waterloo & City
+698,Waterloo Jubilee Platform,796_Jubilee
+699,Watford Metropolitan Platform,748_Metropolitan
+700,Wembley Central Bakerloo Platform,751_Bakerloo
+701,Wembley Park Jubilee Platform,752_Jubilee
+702,Wembley Park Metropolitan Platform,752_Metropolitan
+703,West Acton Central Platform,753_Central
+704,West Brompton District Platform,755_District
+705,West Drayton Elizabeth Platform,3174_Elizabeth
+706,West Ealing Elizabeth Platform,3188_Elizabeth
+707,West Finchley Northern Platform,756_Northern
+708,West Ham District Platform,757_District
+709,West Ham H & C Platform,757_H & C
+710,West Ham Jubilee Platform,757_Jubilee
+711,West Hampstead Jubilee Platform,758_Jubilee
+712,West Harrow Metropolitan Platform,759_Metropolitan
+713,West Kensington District Platform,760_District
+714,West Ruislip Central Platform,762_Central
+715,Westbourne Park Circle Platform,754_Circle
+716,Westbourne Park H & C Platform,754_H & C
+717,Westminster Circle Platform,761_Circle
+718,Westminster District Platform,761_District
+719,Westminster Jubilee Platform,761_Jubilee
+720,White City Central Platform,764_Central
+721,Whitechapel District Platform,763_District
+722,Whitechapel East London Platform,763_East London
+723,Whitechapel Elizabeth Platform,763_Elizabeth
+724,Whitechapel H & C Platform,763_H & C
+725,Willesden Green Jubilee Platform,765_Jubilee
+726,Willesden Junction Bakerloo Platform,1457_Bakerloo
+727,Wimbledon District Platform,5578_District
+728,Wimbledon Park District Platform,768_District
+729,Wood Green Piccadilly Platform,770_Piccadilly
+730,Wood Lane Circle Platform,599_Circle
+731,Wood Lane H & C Platform,599_H & C
+732,Woodford Central Platform,769_Central
+733,Woodside Park Northern Platform,771_Northern
+734,Woolwich Elizabeth Platform,6562_Elizabeth
